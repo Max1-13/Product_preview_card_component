@@ -96,7 +96,7 @@ img {
 }
 
 .price {
-    font: 700 2rem 'Fraunces';
+    font: 700 2rem 'Fraunces', sans-serif;
     color: var(--primary-color);
 }
 
